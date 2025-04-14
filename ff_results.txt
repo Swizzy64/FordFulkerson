@@ -1,0 +1,35 @@
+Number of nodes: 6
+Number of edges: 9
+Max flow from 0 to 5: 4
+Execution time: 0.0138 miliseconds
+----------------------------------------
+Number of nodes: 10
+Number of edges: 28
+Max flow from 0 to 9: 10
+Execution time: 0.0174 miliseconds
+----------------------------------------
+Number of nodes: 50
+Number of edges: 740
+Max flow from 0 to 49: 74
+Execution time: 2.6878 miliseconds
+----------------------------------------
+Number of nodes: 100
+Number of edges: 2980
+Max flow from 0 to 99: 112
+Execution time: 8.5948 miliseconds
+----------------------------------------
+Number of nodes: 200
+Number of edges: 11960
+Max flow from 0 to 199: 334
+Execution time: 71.0024 miliseconds
+----------------------------------------
+Number of nodes: 500
+Number of edges: 74900
+Max flow from 0 to 499: 773
+Execution time: 754.5261 miliseconds
+----------------------------------------
+Number of nodes: 900
+Number of edges: 242820
+Max flow from 0 to 899: 1476
+Execution time: 6493.8415 miliseconds
+----------------------------------------
